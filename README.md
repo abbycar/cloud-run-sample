@@ -1,9 +1,5 @@
 # Cloud Run Example
 
-## Runtime Language: Python 
+A Flask app that converts millimets to inches.
 
-## To Run
-
-```
-docker run -e PORT=8080 -p 8080:8080 [IMAGE]
-```
+Docker file included. Ready to deploy.
